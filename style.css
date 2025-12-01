@@ -82,7 +82,7 @@ header {
 }
 
 .campaign-logo {
-    max-width: 500px;
+    max-width: 600px;
     height: auto;
     padding: 5px;
 }
@@ -195,6 +195,10 @@ header {
     .session-container {
         padding: 15px;
     }
+
+    .nadapraver {
+        padding: 15px;
+    }
     
     .session-title {
         font-size: 1.2em;
@@ -204,4 +208,5 @@ header {
         margin-left: 0;
         padding-left: 10px;
     }
+
 }
